@@ -1,0 +1,317 @@
+Procedure__CPT-4__80048
+median__LabValue__HCT
+Procedure__CPT-4__80061
+max__LabValue__MCH
+max__LabValue__ALBUMIN, BLD
+min__LabValue__ALT(SGPT)
+min__LabValue__U-SPECIFIC GRAVITY
+max__LabValue__T AXIS
+Procedure__CAREFUSION LAB__C&P
+median__LabValue__T AXIS
+median__LabValue__CARBON DIOXIDE-BLD
+min__LabValue__MPV
+Procedure__TDS__SBP
+max__LabValue__VENTRICULAR RATE
+Procedure__SYSTEM__MSDW_NOT APPLICABLE
+min__LabValue__P AXIS
+max__LabValue__MEAN CORP. HGB CONC.
+min__LabValue__CHOL/HDL CHOL RATIO
+min__LabValue__RDW
+max__LabValue__MONOCYTE %
+min__LabValue__CREATININE-SERUM
+max__LabValue__BASOPHIL %
+median__LabValue__RDW
+median__LabValue__RBC BLOOD CELL
+Procedure__TAMTRON EAP__100001
+max__LabValue__LYMPHOCYTE #
+max__LabValue__RBC COUNT
+median__VitalSign__TDS__SBP
+median__LabValue__QT
+median__LabValue__BILIRUBIN TOTAL
+Procedure__CPT-4__85025
+median__LabValue__HDL CHOLESTEROL
+max__LabValue__ALK PHOSPHATASE, BLD
+median__LabValue__A/G RATIO
+median__LabValue__SODIUM-BLD
+median__LabValue__EOSINOPHIL %
+max__LabValue__P AXIS
+median__LabValue__EGFR AFRICAN AM
+median__LabValue__PLATELET
+median__LabValue__INR
+max__LabValue__RDW
+min__LabValue__HEMOGLOBIN A1C
+max__LabValue__ANION GAP
+median__LabValue__APTT
+Procedure__EPIC__6034
+max__LabValue__PLT CNT
+max__VitalSign__IBEX__(RESP)
+median__LabValue__MEAN CORP. HGB CONC.
+min__LabValue__EGFR NON-AFRICAN AM
+max__LabValue__U-PH
+min__LabValue__HCT
+median__LabValue__MONOCYTE %
+min__LabValue__TSH
+Procedure__CPT-4__85027
+max__LabValue__CHLORIDE-BLD
+min__LabValue__MCV
+median__LabValue__MCH
+max__LabValue__NEUTROPHIL #
+median__LabValue__MONOCYTE #
+min__LabValue__NEUTROPHIL %
+max__LabValue__QRS DURATION
+gender
+max__LabValue__A/G RATIO
+median__LabValue__ATRIAL RATE
+Procedure__TDS__(RESP)
+min__LabValue__MEAN CORP. HGB
+median__LabValue__HEMATOCRIT
+max__LabValue__QT
+max__LabValue__NEUTROPHIL %
+min__LabValue__HEMOGLOBIN
+min__VitalSign__EPIC__PULSE
+median__LabValue__P-R INTERVAL
+min__LabValue__A/G RATIO
+min__VitalSign__IBEX__DBP
+min__LabValue__VENTRICULAR RATE
+max__LabValue__R AXIS
+median__LabValue__LDL/HDL RATIO
+median__LabValue__MCV
+min__LabValue__QT
+min__VitalSign__IBEX__PULSE
+max__LabValue__ALT(SGPT)
+max__LabValue__HEMOGLOBIN A1C
+max__LabValue__CHOLESTEROL
+median__LabValue__PLT CNT
+min__LabValue__ALK PHOSPHATASE, BLD
+max__VitalSign__EPIC__PULSE
+Procedure__EPIC__7509
+min__LabValue__INR
+Procedure__CAREFUSION LAB__UCHEM
+min__LabValue__ATRIAL RATE
+median__LabValue__WHITE BLOOD CELL
+max__LabValue__WBC
+median__LabValue__NEUTROPHIL %
+Procedure__EPIC__PULSE
+median__LabValue__POTASSIUMBLD
+median__LabValue__U-PH
+min__LabValue__CHOLESTEROL
+max__LabValue__HDL CHOLESTEROL
+Procedure__EPIC__(RESP)
+max__LabValue__TSH
+min__LabValue__WHITE BLOOD CELL
+min__LabValue__MONOCYTE #
+median__VitalSign__IBEX__SBP
+max__LabValue__MEAN CORP. VOLUME
+Diagnosis__SYSTEM__MSDW_UNKNOWN
+min__LabValue__U-PH
+Procedure__CPT-4__71020
+Procedure__CPT-4__81003
+max__LabValue__NRBC#
+month_of_birth
+min__LabValue__APTT
+Procedure__IBEX__WEIGHT
+min__LabValue__AST (SGOT)
+median__LabValue__HGB
+median__LabValue__MCHC
+min__LabValue__HGB
+median__LabValue__MEAN CORP. VOLUME
+min__VitalSign__IBEX__(RESP)
+Procedure__EPIC__HEIGHT
+median__LabValue__U-SPECIFIC GRAVITY
+age_in_days
+median__LabValue__UREA NITROGEN-BLD
+max__LabValue__ATRIAL RATE
+max__LabValue__RBC BLOOD CELL
+max__LabValue__HEMATOCRIT
+Procedure__IBEX__PULSE
+min__LabValue__LYMPHOCYTE %
+min__LabValue__MONOCYTE %
+max__LabValue__EGFR NON-AFRICAN AM
+median__LabValue__VENTRICULAR RATE
+min__LabValue__RBC BLOOD CELL
+min__VitalSign__IBEX__SBP
+max__LabValue__U-SPECIFIC GRAVITY
+max__VitalSign__EPIC__(RESP)
+min__LabValue__MEAN PLT VOLUME
+min__LabValue__MCHC
+min__LabValue__HDL CHOLESTEROL
+Procedure__TDS__WEIGHT
+min__VitalSign__TDS__(RESP)
+max__LabValue__UROBILINOGEN
+min__LabValue__P-R INTERVAL
+Procedure__CPT-4__80053
+min__LabValue__CHLORIDE-BLD
+Procedure__IBEX__SBP
+median__LabValue__CHOLESTEROL
+min__LabValue__BASOPHIL #
+median__LabValue__HEMOGLOBIN A1C
+median__LabValue__CREATININE-SERUM
+min__LabValue__WBC
+marital_status_code
+max__LabValue__POTASSIUMBLD
+max__LabValue__MPV
+max__LabValue__INR
+min__LabValue__RED DISTRIB. WIDTH
+max__LabValue__PLATELET
+max__LabValue__TRIGLYCERIDES
+max__LabValue__LDL CHOLESTEROL
+Procedure__TDS__DBP
+max__VitalSign__IBEX__SBP
+Procedure__EPIC__61970
+min__LabValue__QTC
+min__LabValue__LYMPHOCYTE #
+max__VitalSign__EPIC__SBP
+median__LabValue__WBC
+median__LabValue__ANION GAP
+max__LabValue__MONOCYTE #
+median__LabValue__QTC
+max__VitalSign__TDS__(RESP)
+Procedure__CAREFUSION LAB__LIPID
+median__LabValue__RBC COUNT
+median__LabValue__R AXIS
+max__VitalSign__TDS__DBP
+Procedure__EPIC__114290
+median__LabValue__PRO TIME
+Procedure__EPIC__DBP
+max__LabValue__EOSINOPHIL #
+median__LabValue__UROBILINOGEN
+median__LabValue__BILIRUBIN DIRECT
+Procedure__IBEX__(RESP)
+min__VitalSign__EPIC__(RESP)
+min__LabValue__PROTEIN TOTAL-BLD
+max__LabValue__P-R INTERVAL
+median__LabValue__ALBUMIN, BLD
+median__VitalSign__EPIC__PULSE
+median__VitalSign__IBEX__PULSE
+patient_ethnic_group
+max__LabValue__EGFR AFRICAN AM
+min__LabValue__NEUTROPHIL #
+max__VitalSign__IBEX__DBP
+median__LabValue__GLUCOSE
+median__LabValue__LDL CHOLESTEROL
+max__LabValue__CHOL/HDL CHOL RATIO
+min__LabValue__PLT CNT
+HT
+Procedure__EPIC__64924
+min__LabValue__UREA NITROGEN-BLD
+min__LabValue__MEAN CORP. VOLUME
+min__LabValue__SODIUM-BLD
+max__LabValue__CALCIUM, BLD
+median__LabValue__MEAN CORP. HGB
+min__LabValue__CARBON DIOXIDE-BLD
+Procedure__EPIC__6032
+median__LabValue__EGFR NON-AFRICAN AM
+min__LabValue__BASOPHIL %
+min__LabValue__BILIRUBIN TOTAL
+Procedure__EPIC__SBP
+Procedure__CAREFUSION LAB__TSH
+median__LabValue__RED DISTRIB. WIDTH
+Procedure__CAREFUSION LAB__CMP
+median__LabValue__NRBC#
+max__LabValue__QTC
+max__LabValue__NUCLEATE RBC%
+max__LabValue__WHITE BLOOD CELL
+min__LabValue__GLUCOSE
+race
+median__VitalSign__EPIC__DBP
+min__LabValue__ALBUMIN, BLD
+Procedure__CPT-4__85610
+median__LabValue__BASOPHIL %
+median__VitalSign__EPIC__(RESP)
+min__LabValue__RBC COUNT
+max__LabValue__BASOPHIL #
+median__VitalSign__IBEX__DBP
+min__LabValue__ANION GAP
+max__LabValue__LYMPHOCYTE %
+max__LabValue__UREA NITROGEN-BLD
+min__VitalSign__TDS__SBP
+Diagnosis__ICD-9__V14
+Procedure__EPIC__6550
+min__LabValue__MCH
+median__LabValue__QRS DURATION
+median__VitalSign__IBEX__(RESP)
+max__LabValue__RED DISTRIB. WIDTH
+max__LabValue__MEAN CORP. HGB
+median__LabValue__LYMPHOCYTE %
+min__LabValue__EOSINOPHIL #
+address_zip
+min__LabValue__R AXIS
+max__LabValue__CREATININE-SERUM
+min__LabValue__EGFR AFRICAN AM
+mother_account_number
+min__LabValue__T AXIS
+Procedure__EPIC__WEIGHT
+min__LabValue__LDL/HDL RATIO
+median__LabValue__BASOPHIL #
+median__LabValue__NUCLEATE RBC%
+min__LabValue__BILIRUBIN DIRECT
+max__LabValue__MCV
+median__LabValue__CHLORIDE-BLD
+Procedure__SYSTEM__MSDW_UNKNOWN
+min__LabValue__TRIGLYCERIDES
+median__LabValue__CHOL/HDL CHOL RATIO
+median__LabValue__MEAN PLT VOLUME
+max__LabValue__HGB
+max__LabValue__SODIUM-BLD
+max__LabValue__MEAN PLT VOLUME
+median__LabValue__TRIGLYCERIDES
+min__VitalSign__TDS__DBP
+median__VitalSign__EPIC__SBP
+Procedure__EPIC CPT-4__100001
+Procedure__CAREFUSION LAB__CTP
+max__LabValue__GLUCOSE
+median__LabValue__ALK PHOSPHATASE, BLD
+min__LabValue__PRO TIME
+min__LabValue__EOSINOPHIL %
+max__LabValue__LDL/HDL RATIO
+max__LabValue__BILIRUBIN DIRECT
+min__LabValue__UROBILINOGEN
+min__LabValue__QRS DURATION
+median__LabValue__PROTEIN TOTAL-BLD
+min__LabValue__POTASSIUMBLD
+max__VitalSign__EPIC__DBP
+max__LabValue__MCHC
+max__LabValue__APTT
+median__LabValue__HEMOGLOBIN
+deceased_indicator
+max__VitalSign__IBEX__PULSE
+min__LabValue__NUCLEATE RBC%
+max__LabValue__PROTEIN TOTAL-BLD
+median__LabValue__TSH
+median__LabValue__ALT(SGPT)
+Diagnosis__SYSTEM__MSDW_NOT APPLICABLE
+max__VitalSign__TDS__SBP
+median__LabValue__EOSINOPHIL #
+min__LabValue__MEAN CORP. HGB CONC.
+date_of_birth
+Procedure__EPIC__6104
+min__VitalSign__EPIC__SBP
+min__LabValue__HEMATOCRIT
+min__VitalSign__EPIC__DBP
+Procedure__CPT-4__93000
+Procedure__EPIC__6551
+max__LabValue__HCT
+max__LabValue__BILIRUBIN TOTAL
+Procedure__TDS__HEIGHT
+max__LabValue__AST (SGOT)
+religion
+min__LabValue__LDL CHOLESTEROL
+max__LabValue__HEMOGLOBIN
+medical_record_number
+Procedure__CAREFUSION LAB__CPD
+median__LabValue__CALCIUM, BLD
+Procedure__MUSE ID__93000
+min__LabValue__PLATELET
+max__LabValue__PRO TIME
+median__LabValue__LYMPHOCYTE #
+min__LabValue__NRBC#
+max__LabValue__CARBON DIOXIDE-BLD
+median__VitalSign__TDS__DBP
+median__VitalSign__TDS__(RESP)
+median__LabValue__P AXIS
+median__LabValue__AST (SGOT)
+median__LabValue__MPV
+Procedure__IBEX__DBP
+median__LabValue__NEUTROPHIL #
+min__LabValue__CALCIUM, BLD
+max__LabValue__EOSINOPHIL %

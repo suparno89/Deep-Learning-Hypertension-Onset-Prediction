@@ -1,0 +1,219 @@
+├── Cohorts
+│   ├── Case
+│   │   ├── Case_415k.parquet
+│   │   ├── Case_filtered_15_540.parquet
+│   │   ├── Diseases
+│   │   │   ├── Anxiety_Case.parquet
+│   │   │   ├── Cerebrovascular_disease.parquet
+│   │   │   ├── Copd.parquet
+│   │   │   ├── Hypersomnia.parquet
+│   │   │   ├── Ischemic_heart_disease.parquet
+│   │   │   ├── Lipid_metabolism.parquet
+│   │   │   ├── Liver.parquet
+│   │   │   ├── Obesity.parquet
+│   │   │   ├── Other_form_heart_disease_Case.parquet
+│   │   │   ├── Type2_diabetes.parquet
+│   │   │   └── Veins_and_lyphatics_Cases.parquet
+│   │   ├── Drug
+│   │   │   ├── Med_CV_Case.parquet
+│   │   │   ├── Med_depression_Case.parquet
+│   │   │   ├── Med_lipid_disorders_Case.parquet
+│   │   │   ├── Med_schizo_Case.parquet
+│   │   │   └── Med_type2_diabetes_Case.parquet
+│   │   ├── LabValues
+│   │   │   └── Case_Lab_Values_complete.parquet
+│   │   └── Measurement
+│   │       ├── BMI
+│   │       │   ├── BMI_Cases_min_max_mean_360days_after_HT_onset.parquet
+│   │       │   ├── BMI_cases.parquet
+│   │       │   └── BMI_cases_min_mean_max.parquet
+│   │       └── Pulse
+│   │           ├── Pulse_Rate_cases.parquet
+│   │           └── Pulse_rate_case_min_max_mean.parquet
+│   ├── Condition_BP
+│   │   └── hypertension_phenotype_onsets.parquet
+│   ├── Control
+│   │   ├── Diseases
+│   │   │   ├── Anxiety_control.parquet
+│   │   │   ├── Cerebrovascular_disease_Control.parquet
+│   │   │   ├── Hypersomnia_control.parquet
+│   │   │   ├── Ischemic_heart_disease_Control.parquet
+│   │   │   ├── Obesity.parquet
+│   │   │   ├── Other_form_heart_disease_Control.parquet
+│   │   │   └── Veins_and_lyphatics_Control.parquet
+│   │   ├── Drug
+│   │   │   ├── Med_depression_control.parquet
+│   │   │   ├── Med_lipid_disorders_control.parquet
+│   │   │   └── Med_type2_diabetes_control.parquet
+│   │   ├── LabValues
+│   │   │   └── Lab_Controls_all.parquet
+│   │   └── Measurement
+│   │       └── BMI
+│   │           ├── BMI_controls_filtered_15_540.parquet
+│   │           └── BMI_controls_min_max_mean.parquet
+│   ├── Diagnosis_Cases_10000.parquet
+│   ├── Diagnosis_Cases_100000.parquet
+│   ├── Diagnosis_Cases_105000.parquet
+│   ├── Diagnosis_Cases_110000.parquet
+│   ├── Diagnosis_Cases_115000.parquet
+│   ├── Diagnosis_Cases_120000.parquet
+│   ├── Diagnosis_Cases_125000.parquet
+│   ├── Diagnosis_Cases_130000.parquet
+│   ├── Diagnosis_Cases_135000.parquet
+│   ├── Diagnosis_Cases_15000.parquet
+│   ├── Diagnosis_Cases_20000.parquet
+│   ├── Diagnosis_Cases_25000.parquet
+│   ├── Diagnosis_Cases_30000.parquet
+│   ├── Diagnosis_Cases_35000.parquet
+│   ├── Diagnosis_Cases_40000.parquet
+│   ├── Diagnosis_Cases_45000.parquet
+│   ├── Diagnosis_Cases_5000.parquet
+│   ├── Diagnosis_Cases_50000.parquet
+│   ├── Diagnosis_Cases_55000.parquet
+│   ├── Diagnosis_Cases_60000.parquet
+│   ├── Diagnosis_Cases_65000.parquet
+│   ├── Diagnosis_Cases_70000.parquet
+│   ├── Diagnosis_Cases_75000.parquet
+│   ├── Diagnosis_Cases_80000.parquet
+│   ├── Diagnosis_Cases_85000.parquet
+│   ├── Diagnosis_Cases_90000.parquet
+│   ├── Diagnosis_Cases_95000.parquet
+│   ├── Features with one year gap
+│   │   ├── COPD_Case_EVER_365_gap_in_days.parquet
+│   │   ├── COPD_Control_EVER_365_gap_in_days.parquet
+│   │   ├── Cerebrovascular_Disease_Case_EVER_365_gap_in_days.parquet
+│   │   ├── Cerebrovascular_Disease_Control_EVER_365_gap_in_days.parquet
+│   │   ├── anxienty_med_Case_EVER_365_gap_in_days.parquet
+│   │   ├── anxienty_med_Control_EVER_365_gap_in_days.parquet
+│   │   ├── condition_rheumatic_heart_disease_Case_EVER_365_gap_in_days.parquet
+│   │   ├── condition_rheumatic_heart_disease_Control_EVER_365_gap_in_days.parquet
+│   │   ├── diseases_of_veins_and_Lyphatics_and_other_diseases_Case_EVER_365_gap_in_days.parquet
+│   │   ├── diseases_of_veins_and_Lyphatics_and_other_diseases_Control_EVER_365_gap_in_days.parquet
+│   │   ├── hypersomnia_Case_EVER_365_gap_in_days.parquet
+│   │   ├── hypersomnia_Control_EVER_365_gap_in_days.parquet
+│   │   ├── ischemic_heart_disease_Case_EVER_365_gap_in_days.parquet
+│   │   ├── ischemic_heart_disease_Control_EVER_365_gap_in_days.parquet
+│   │   ├── lipid_metabolism_Case_EVER_365_gap_in_days.parquet
+│   │   ├── lipid_metabolism_Control_EVER_365_gap_in_days.parquet
+│   │   ├── liver_Case_EVER_365_gap_in_days.parquet
+│   │   ├── liver_Control_EVER_365_gap_in_days.parquet
+│   │   ├── med_cv_Case_EVER_365_gap_in_days.parquet
+│   │   ├── med_cv_Control_EVER_365_gap_in_days.parquet
+│   │   ├── med_depression_Case_EVER_365_gap_in_days.parquet
+│   │   ├── med_depression_Control_EVER_365_gap_in_days.parquet
+│   │   ├── med_lipid_disorders_Case_EVER_365_gap_in_days.parquet
+│   │   ├── med_lipid_disorders_Control_EVER_365_gap_in_days.parquet
+│   │   ├── med_schizophrenia_Case_EVER_365_gap_in_days.parquet
+│   │   ├── med_schizophrenia_Control_EVER_365_gap_in_days.parquet
+│   │   ├── med_type_2_diabetes_Case_EVER_365_gap_in_days.parquet
+│   │   ├── med_type_2_diabetes_Control_EVER_365_gap_in_days.parquet
+│   │   ├── obesity_Case_EVER_365_gap_in_days.parquet
+│   │   ├── obesity_Control_EVER_365_gap_in_days.parquet
+│   │   ├── other_cardiovascular_disease_Case_EVER_365_gap_in_days.parquet
+│   │   └── other_cardiovascular_disease_Control_EVER_365_gap_in_days.parquet
+│   ├── LabValue_Cases_100000.parquet
+│   ├── LabValue_Cases_120000.parquet
+│   ├── LabValue_Cases_140000.parquet
+│   ├── LabValue_Cases_20000.parquet
+│   ├── LabValue_Cases_40000.parquet
+│   ├── LabValue_Cases_60000.parquet
+│   ├── LabValue_Cases_80000.parquet
+│   ├── ML
+│   │   ├── ML_Dataset_A.parquet
+│   │   ├── ML_Dataset_B.parquet
+│   │   └── ML_Dataset_C.parquet
+│   ├── Procedure_Cases_120000.parquet
+│   ├── Procedure_Cases_140000.parquet
+│   ├── Procedure_Cases_20000.parquet
+│   ├── Procedure_Cases_40000.parquet
+│   ├── Procedure_Cases_60000.parquet
+│   ├── Procedure_Cases_80000.parquet
+│   ├── Vitalsign_Cases_20000.parquet
+│   └── Vitalsign_Cases_40000.parquet
+├── Fiber
+│   ├── FIBER.pdf
+│   ├── FIBER_Getting_Started.pdf
+│   ├── heart-surgery-demo.ipynb
+│   ├── hypertension-phenotyping-demo.ipynb
+│   ├── hypertension.py
+│   ├── quick_example.py
+│   └── unsupervised-feature-extraction-demo.ipynb
+├── Notebooks
+│   ├── HT_Phenotype_Algo
+│   │   └── data_preprocessing_suparno.ipynb
+│   ├── Pipelines
+│   │   ├── Cohorts -> /home/cremej01/hype_prediction_ehr/Cohorts
+│   │   ├── ML_Pipeline.ipynb
+│   │   ├── Pipeline_Merge_Dataframes.ipynb
+│   │   ├── Saved Models
+│   │   │   ├── lgbm.model
+│   │   │   ├── lr_using_GridSearch_with_81004_records_2020-02-27 17:02:49.sav
+│   │   │   ├── lr_using_HyperOpt_with_292939_records_2020-03-04 13:36:05.sav
+│   │   │   ├── lr_using_HyperOpt_with_81004_records_2020-02-27 20:56:10.sav
+│   │   │   ├── mlp_using_GridSearch_with_81004_records_2020-03-03 19:37:20.sav
+│   │   │   ├── mlp_using_HyperOpt_with_292939_records_2020-03-09 13:58:41.sav
+│   │   │   ├── mlp_using_HyperOpt_with_81004_records_2020-03-03 17:49:26.sav
+│   │   │   ├── rf_using_GridSearch_with_81004_records_2020-03-04 10:20:21.sav
+│   │   │   ├── rf_using_HyperOpt_with_292939_records_2020-03-06 10:51:13.sav
+│   │   │   ├── rf_using_HyperOpt_with_81004_records_2020-03-03 11:41:26.sav
+│   │   │   ├── rf_using_HyperOpt_with_81004_records_2020-03-18 15:51:01.sav
+│   │   │   ├── xgb_using_GridSearch_with_81004_records_2020-03-03 23:10:20.sav
+│   │   │   ├── xgb_using_HyperOpt_with_113284_records_2020-03-11 10:39:42.sav
+│   │   │   ├── xgb_using_HyperOpt_with_292939_records_2020-03-06 19:49:19.sav
+│   │   │   └── xgb_using_HyperOpt_with_81004_records_2020-03-03 14:18:12.sav
+│   │   ├── Supervised_Feature_Extraction_Pipeline.ipynb
+│   │   └── Unsupervised_Pipeline.ipynb
+│   ├── Statistics
+│   │   ├── Case_Diseases_of_the_circulatory_system_Statistics.ipynb
+│   │   └── Control_Diseases_of_the_circulatory_system_Statistics.ipynb
+│   └── feature_extraction
+│       ├── BMI_Cases_Controls.ipynb
+│       ├── Baseline Characteristics.ipynb
+│       ├── Blood Pressure.ipynb
+│       ├── Blood Pressure_Cases_Example.ipynb
+│       ├── BloodPressure_controls.py
+│       ├── COPD.ipynb
+│       ├── Cerebrovascular_disease.ipynb
+│       ├── Cerebrovascular_disease_2yr.ipynb
+│       ├── Certain_Condition.ipynb
+│       ├── Certain_ICD_code.ipynb
+│       ├── Check_Lab_Values_from_guidelines.ipynb
+│       ├── Clean-dataframes.ipynb
+│       ├── Cohorts -> /home/cremej01/hype_prediction_ehr/Cohorts
+│       ├── Date_race_religion.ipynb
+│       ├── Diseases_of_veins_and_Lyphatics_and_other_diseases .ipynb
+│       ├── Feature_extraction_DRUGS.parquet
+│       ├── Feature_extraction_Pipeline.ipynb
+│       ├── Generic_functions.ipynb
+│       ├── Global_feature_extraction.ipynb
+│       ├── Height and Weight.ipynb
+│       ├── Histogramms for Documentation.ipynb
+│       ├── Hypersomnia-2yr.ipynb
+│       ├── Hypersomnia.ipynb
+│       ├── Imputing.ipynb
+│       ├── Ischemic_heart_disease_2yrs.ipynb
+│       ├── Ischemic_heart_disease_CV.ipynb
+│       ├── Lab_Values.ipynb
+│       ├── Lipid_metabolism.ipynb
+│       ├── Liver.ipynb
+│       ├── Med_Anxiety.ipynb
+│       ├── Med_CV-2yr.ipynb
+│       ├── Med_CV.ipynb
+│       ├── Med_Depression.ipynb
+│       ├── Med_Depression_2yr.ipynb
+│       ├── Med_Schizophrenia.ipynb
+│       ├── Med_Type2_Diabetes.ipynb
+│       ├── Med_lipid_disorders.ipynb
+│       ├── Mega_frame.ipynb
+│       ├── Obesity.ipynb
+│       ├── Onsets.ipynb
+│       ├── Other_form_of_CV.ipynb
+│       ├── Pulse_Rate.ipynb
+│       ├── Pulse_Rate_Cases_Controls.ipynb
+│       ├── SQL_Access.ipynb
+│       ├── TabaccoUse_Alcohol.ipynb
+│       ├── Tobacco_Cohort.ipynb
+│       ├── Type_2_diabetes.ipynb
+│       └── Zip_codes.ipynb
+├── Project structure.txt
+└── README.md
